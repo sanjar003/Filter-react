@@ -1,0 +1,16 @@
+html {
+  text-align: center;
+  .container {
+    width: auto;
+    height: 89px;
+    backdrop-filter: blur(3px);
+    border-bottom: 2px solid black;
+    p {
+      font-size: 20px;
+    }
+  }
+}
+
+.input {
+  font-size: 20px;
+}
